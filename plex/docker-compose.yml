@@ -1,0 +1,15 @@
+services:
+  plex:
+    image: linuxserver/plex:latest
+    container_name: plex
+    network_mode: host
+    environment:
+      - PUID=1000                 # Replace with your user ID
+      - PGID=1000                 # Replace with your group ID
+      - VERSION=docker
+      - TZ=America/New_York       # Replace with your timezone
+      - CLAIM=claim-Kc8e4P-76Wzhhmf3dzvC  # Replace with your Plex claim token
+    volumes:
+      - /home/benjamin/plex/config:/config          # Configuration files directory
+      - /home/benjamin/plex/media:/media            # Media files directo
+    restart: unless-stopped

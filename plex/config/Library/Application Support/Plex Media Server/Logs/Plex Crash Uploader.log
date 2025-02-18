@@ -1,0 +1,4 @@
+Feb 17, 2025 12:39:33.473 [139652006079288] INFO - Crash Uploader - Platform: Linux ServerUUID: 8f11eabfb2b905ea39a53700cd7cf0988807e0bf UserId: benjamin.tyler@mymail.champlain.edu Version: 1.41.3.9314-a0bfb8370
+Feb 17, 2025 12:39:33.474 [139652006079288] INFO - Pre-processed minidump directory: /config/Library/Application Support/Plex Media Server/Crash Reports/1.41.3.9314-a0bfb8370
+Feb 17, 2025 12:39:33.474 [139652006079288] INFO - Post-processed minidump directory: /run/plex-temp
+Feb 17, 2025 12:39:33.475 [139652033996808] INFO - Crash Uploader - Processing Complete.

@@ -1,0 +1,5 @@
+Feb 14, 2025 10:11:16.115 [140474830576440] INFO - Crash Uploader - Session Health - Status: exited StartTime: 1739321751 Duration: 224124 UserId: benjamin.tyler@mymail.champlain.edu Version: 1.41.3.9314-a0bfb8370
+Feb 14, 2025 10:11:16.111 [140474858493960] DEBUG - [HCl#1] HTTP requesting POST https://o17675.ingest.sentry.io/api/1233455/envelope/?sentry_key=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Feb 14, 2025 10:11:16.217 [140474830338872] DEBUG - [HttpClient/HCl#1] HTTP/2.0 (0.1s) 200 response from POST https://o17675.ingest.sentry.io/api/1233455/envelope/?sentry_key=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Feb 14, 2025 10:11:16.220 [140474858493960] INFO - Successfully reported session health
+Feb 14, 2025 10:11:16.220 [140474858493960] INFO - Crash Uploader - Processing Complete.
