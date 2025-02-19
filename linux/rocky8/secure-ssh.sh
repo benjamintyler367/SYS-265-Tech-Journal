@@ -3,6 +3,4 @@
 #creates a new ssh user using $1 parameter
 #adds a public key from the local repo or curled form the remote repo 
 #removes roots ability to ssh in 
-#!/bin/bash
-
-#
+echo "ALL YOUR CODE GOES HERE"
